@@ -38,6 +38,3 @@ _Dashboard for Out of office slack bot app is small app that shows the vacation 
 8. Thats it enjoy ![image-1.png](image-1.png)
 
 [Back To The Top](#dashboard-for-out-of-office-slackapp-bot)
-
----
-"# Dashboard-for-Out-of-office-slackapp-bot" 
