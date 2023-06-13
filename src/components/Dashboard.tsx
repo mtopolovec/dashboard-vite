@@ -169,7 +169,7 @@ export default function Dashboard() {
                   height: 480,
                 }}
               >
-                <Chart data={filteredData} />
+                <Chart data={data} />
               </Paper>
             </Grid>
             {/* Vacation days used */}
