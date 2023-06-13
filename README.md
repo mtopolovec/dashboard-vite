@@ -34,7 +34,12 @@ _Dashboard for Out of office slack bot app is small app that shows the vacation 
 4. Open terminal inside Visual Studio Code
 5. Install all dependencies using command: `npm install`
 6. Turn on application using command: `npm run dev`
-7. Check in your browser the link written in terminal with correct port ![image.png](image.png)
-8. Thats it enjoy ![image-1.png](image-1.png)
+7. Check in your browser the link written in terminal with correct port 
+
+![image.png](image.png)
+
+9. Thats it enjoy: 
+
+![image-1.png](image-1.png)
 
 [Back To The Top](#dashboard-for-out-of-office-slackapp-bot)
